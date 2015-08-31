@@ -6,7 +6,6 @@ BEGIN;
 
 DELIMITER //
  
-DROP FUNCTION change_pass;
 CREATE FUNCTION change_pass(
     nickname VARCHAR(512),
     oldpass  VARCHAR(512),

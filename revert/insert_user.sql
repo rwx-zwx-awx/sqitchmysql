@@ -6,6 +6,7 @@ BEGIN;
 
 DELIMITER //
  
+DROP PROCEDURE insert_user;
 CREATE PROCEDURE insert_user(
     nickname VARCHAR(512),
     password VARCHAR(512)
