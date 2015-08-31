@@ -1,9 +1,0 @@
-%syntax-version=1.0.0
-%project=flipr
-%uri=https://github.com/kumpfio/sqitchmysql/
-
-appuser 2015-08-31T18:17:19Z Jason Kumpf <jason@kumpf.io> # Creates a an application user.
-users [appuser] 2015-08-31T18:23:14Z Jason Kumpf <jason@kumpf.io> # Creates table to track our users.
-insert_user [users appuser] 2015-08-31T18:26:35Z Jason Kumpf <jason@kumpf.io> # Creates a function to insert a user.
-change_pass [users appuser] 2015-08-31T18:26:45Z Jason Kumpf <jason@kumpf.io> # Creates a function to change a user password.
-@v1.0.0-dev1 2015-08-31T18:30:45Z Jason Kumpf <jason@kumpf.io> # Tag v1.0.0-dev1.
