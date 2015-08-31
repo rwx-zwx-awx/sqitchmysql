@@ -9,3 +9,5 @@ change_pass [users appuser] 2015-08-31T18:26:45Z Jason Kumpf <jason@kumpf.io> # 
 @v1.0.0-dev1 2015-08-31T18:30:45Z Jason Kumpf <jason@kumpf.io> # Tag v1.0.0-dev1.
 
 flips [appuser users] 2015-08-31T18:33:38Z Jason Kumpf <jason@kumpf.io> # Adds table for storing flips.
+insert_flip [flips appuser] 2015-08-31T18:46:08Z Jason Kumpf <jason@kumpf.io> # Creates a function for adding flips
+delete_flip [flips appuser] 2015-08-31T18:46:35Z Jason Kumpf <jason@kumpf.io> # Creates a function for removing flips
