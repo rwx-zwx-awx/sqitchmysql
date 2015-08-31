@@ -12,3 +12,4 @@ flips [appuser users] 2015-08-31T18:33:38Z Jason Kumpf <jason@kumpf.io> # Adds t
 insert_flip [flips appuser] 2015-08-31T18:46:08Z Jason Kumpf <jason@kumpf.io> # Creates a function for adding flips
 delete_flip [flips appuser] 2015-08-31T18:46:35Z Jason Kumpf <jason@kumpf.io> # Creates a function for removing flips
 @v1.0.0-dev2 2015-08-31T18:53:37Z Jason Kumpf <jason@kumpf.io> # Tag v1.0.0-dev2.
+insert_user [insert_user@v1.0.0-dev2] 2015-08-31T18:54:38Z Jason Kumpf <jason@kumpf.io> # Change insert_user to use encyrpt().
