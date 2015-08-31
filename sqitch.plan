@@ -3,3 +3,4 @@
 %uri=https://github.com/kumpfio/sqitchmysql/
 
 appuser 2015-08-31T18:17:19Z Jason Kumpf <jason@kumpf.io> # Creates a an application user.
+users [appuser] 2015-08-31T18:23:14Z Jason Kumpf <jason@kumpf.io> # Creates table to track our users.
